@@ -2915,7 +2915,7 @@ btn("Immortality Lord", function()
 	accessorylimbs={
 		{meshid="126825022897778",textureid="",C0=cf_0,Name="Torso"},
 		{meshid="17269753087",textureid="",C0=angles(0,3.14,0),Name="Head"},
-		{meshid="111563274868006",textureid="",C0=cf(1.50995803e-08,-1.07200003,-0.100000001,-1,0,1.50995803e-07,0,1,0,-1.50995803e-07,0,-1),Name="Head"},
+		{meshid="111563274868006",textureid="",C0 = cf(1.50995803e-08, -1.07200003, -0.100000001, -1, 0, 1.50995803e-07, 0, 1, 0, -1.50995803e-07, 0, -1.2),Name="Head"},
 		{meshid="138744606849121",textureid="",C0=angles(0,0,1.5707963267948966),Name="Left Arm"},
 		{meshid="138744606849121",textureid="",C0=angles(0,0,1.5707963267948966),Name="Right Arm"},
 		{meshid="138744606849121",textureid="",C0=angles(0,0,1.5707963267948966),Name="Left Leg"},
